@@ -43,6 +43,21 @@
 * [NeuralProphet: Explainable Forecasting at Scale](https://github.com/ourownstory/neural_prophet)
 * [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
 
+# Anomaly Detection
+[Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)
+
+Code [https://github.com/squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+
+[Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection](https://proceedings.mlr.press/v162/chen22x.html)
+
+Code [https://github.com/SigmaLab01/DVGCRN](https://github.com/SigmaLab01/DVGCRN)
+
+[Latent Outlier Exposure for Anomaly Detection with Contaminated Data](https://proceedings.mlr.press/v162/qiu22b.html)
+
+Code [https://github.com/boschresearch/LatentOE-AD](https://github.com/boschresearch/LatentOE-AD)
+
+
+
 
 
 

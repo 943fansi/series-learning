@@ -56,6 +56,9 @@ Code [https://github.com/SigmaLab01/DVGCRN](https://github.com/SigmaLab01/DVGCRN
 
 Code [https://github.com/boschresearch/LatentOE-AD](https://github.com/boschresearch/LatentOE-AD)
 
+[Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137)
+
+Code [https://github.com/NSIBF/NSIBF](https://github.com/NSIBF/NSIBF)
 
 
 

@@ -60,6 +60,26 @@ Code [https://github.com/boschresearch/LatentOE-AD](https://github.com/boschrese
 
 Code [https://github.com/NSIBF/NSIBF](https://github.com/NSIBF/NSIBF)
 
+# CNKI
+[THU](https://navi.cnki.net/knavi/degreeunits/GQHAU/detail) Number of articles ***14893***
+
+[PKU](https://navi.cnki.net/knavi/degreeunits/GBEJU/detail) Number of articles ***1548***
+
+[SJTU](https://navi.cnki.net/knavi/degreeunits/GSJTU/detail) Number of articles ***65746***
+
+[ZJU](https://navi.cnki.net/knavi/degreeunits/GZJDX/detail) Number of articles ***94398*** 
+
+[WHU](https://navi.cnki.net/knavi/degreeunits/GWHDU/detail) Number of articles ***26703***  
+
+[NJU](https://navi.cnki.net/knavi/degreeunits/GNJIU/detail) Number of articles ***33715***
+
+[FDU](https://navi.cnki.net/knavi/degreeunits/GFUDU/detail) Number of articles ***35699***
+
+[USTC](https://navi.cnki.net/knavi/degreeunits/GZKJU/detail) Number of articles ***23874***
+
+[HUST](https://navi.cnki.net/knavi/degreeunits/GHZKU/detail) Number of articles ***89436***
+
+[RUC](https://navi.cnki.net/knavi/degreeunits/GZRMU/detail) Number of articles ***666***
 
 
 

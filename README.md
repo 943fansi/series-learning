@@ -81,6 +81,18 @@ Code [https://github.com/NSIBF/NSIBF](https://github.com/NSIBF/NSIBF)
 
 [RUC](https://navi.cnki.net/knavi/degreeunits/GZRMU/detail) Number of articles ***666***
 
+# Strange
+> Reading articles written by Indians is not as good as reading articles written by Chinese
+
+>> Hybrid wind speed forecasting using ICEEMDAN and transformer model with novel loss function[https://doi.org/10.1016/j.energy.2022.126383]
+
+>> **(transformer network (TRA) with a novel KMSE loss function (NLF) for the WSF)**
+
+>> A novel loss function of deep learning in wind speed forecasting[https://doi.org/10.1016/j.energy.2021.121808]
+
+>> **(propose a kernel MSE loss function)**
+
+> `There is no citation relationship in the above two articles`
 
 
 

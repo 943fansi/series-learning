@@ -43,6 +43,7 @@
 * [NeuralProphet: Explainable Forecasting at Scale](https://github.com/ourownstory/neural_prophet)
 * [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
 * [DON’T OVERFIT THE HISTORY -RECURSIVE TIME SERIES DATA AUGMENTATION](https://arxiv.org/abs/2207.02891)
+* [Learning Fast and Slow for Online Time Series Forecasting](https://arxiv.org/abs/2202.11672) [fsnet](https://github.com/salesforce/fsnet)
 
 # Anomaly Detection
 [Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)

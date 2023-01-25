@@ -45,7 +45,7 @@
 * [DON’T OVERFIT THE HISTORY -RECURSIVE TIME SERIES DATA AUGMENTATION](https://arxiv.org/abs/2207.02891)
 * [Learning Fast and Slow for Online Time Series Forecasting](https://arxiv.org/abs/2202.11672) [fsnet](https://github.com/salesforce/fsnet)
 
-* [A Hybrid System Based on Dynamic Selection for Time Series Forecasting](https://ieeexplore.m7h.net/document/9340584)
+* [A Hybrid System Based on Dynamic Selection for Time Series Forecasting](https://ieeexplore.ieee.org/document/9502692)
 [code](https://github.com/EraylsonGaldino/Dref)
 
 # Anomaly Detection

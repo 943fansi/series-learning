@@ -48,6 +48,10 @@
 * [A Hybrid System Based on Dynamic Selection for Time Series Forecasting](https://ieeexplore.ieee.org/document/9502692)
 [code](https://github.com/EraylsonGaldino/Dref)
 
+* [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X)
+[code](https://github.com/KU-Leuven-LIRIS/n-beats-s)
+>> loss function (RMSSE for forecast error and RMSSC for forecast instability) instead of three different loss functions (MAPE, sMAPE, and MASE)
+
 # Anomaly Detection
 [Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)
 

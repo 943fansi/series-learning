@@ -1,4 +1,5 @@
 # Time Series 
+[SOLETE Dataset](https://data.dtu.dk/articles/dataset/TheSOLETEdataset/17040767)
 
 [Forecasting Methods and Practice Books Online](https://otexts.com/fppcn/)
 
@@ -36,6 +37,12 @@
 | [pdf](https://arxiv.org/abs/1912.09363)   | [pdf](https://arxiv.org/abs/2108.12784)   | [pdf](https://arxiv.org/abs/2106.13008)   | [pdf](https://arxiv.org/abs/2012.07436) | [pdf](https://arxiv.org/abs/1907.00235)   | [pdf](https://arxiv.org/abs/2001.04451) | 
 | [code](https://github.com/unit8co/darts)   | [code](https://github.com/OrigamiSL/TCCT2021-Neurocomputing-)   | [code](https://github.com/thuml/autoformer)   | [code](https://github.com/zhouhaoyi/Informer2020)   | [code](https://github.com/AIStream-Peelout/flow-forecast)   | [code](https://github.com/google/trax/tree/master/trax/models/reformer) | 
 #
+
+### wind speed forecast
+[Multistep short-term wind speed prediction using nonlinear auto-regressive neural network with exogenous variable selection](https://www.sciencedirect.com/science/article/pii/S1110016820305627?via%3Dihub)
+
+[code](https://github.com/MNFuad/Multivariate-Multistep-Wind-Speed-Prediction)
+
 **<font color="green">Loss function</font>**
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting]()
 * [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting]()

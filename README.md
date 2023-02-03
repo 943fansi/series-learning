@@ -45,6 +45,13 @@
 
 [code](https://github.com/MNFuad/Multivariate-Multistep-Wind-Speed-Prediction)
 
+
+### Change-point detection
+[Change-point detection in wind turbine SCADA data for robust condition monitoring with normal behaviour models](https://wes.copernicus.org/articles/5/1375/2020/)
+
+[code](https://github.com/sltzgs/KernelCPD_WindSCADA)
+
+
 **<font color="green">Loss function</font>**
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting]()
 * [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting]()
@@ -69,6 +76,8 @@
 >> loss function (RMSSE for forecast error and RMSSC for forecast instability) instead of three different loss functions (MAPE, sMAPE, and MASE)
 
 # Anomaly Detection
+[Anomaly Detection/Outlier Detection: Why do we need to normalise/standardise our dataset?](https://zhuanlan.zhihu.com/p/373562721)
+
 [Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)
 
 Code [https://github.com/squareRoot3/Rethinking-Anomaly-Detection](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)

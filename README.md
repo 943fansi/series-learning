@@ -1,6 +1,8 @@
 # Time Series 
 [SOLETE Dataset](https://data.dtu.dk/articles/dataset/TheSOLETEdataset/17040767)
 
+[SWaT WADI EPIC Dataset](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
+
 [Forecasting Methods and Practice Books Online](https://otexts.com/fppcn/)
 
 [torchscale_demo](https://github.com/kashif/pytorch-transformer-ts/blob/main/torchscale/module.py)

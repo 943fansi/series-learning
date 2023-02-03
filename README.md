@@ -1,8 +1,11 @@
 # Time Series 
 
 [Forecasting Methods and Practice Books Online](https://otexts.com/fppcn/)
+
 [torchscale_demo](https://github.com/kashif/pytorch-transformer-ts/blob/main/torchscale/module.py)
+
 [Time series distances](https://github.com/wannesm/dtaidistance)
+
 [asymmetric loss](https://github.com/datatrigger/asymmetric_loss)
 **<font color="blue">MLP-based</font>**
 |  DLinear | STID | NHits | Nbeatsx | Nbeats |

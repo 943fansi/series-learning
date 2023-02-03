@@ -10,6 +10,8 @@
 [Time series distances](https://github.com/wannesm/dtaidistance)
 
 [asymmetric loss](https://github.com/datatrigger/asymmetric_loss)
+
+
 **<font color="blue">MLP-based</font>**
 |  DLinear | STID | NHits | Nbeatsx | Nbeats |
 |----------|----------|----------|----------|----------|

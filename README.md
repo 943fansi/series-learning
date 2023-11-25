@@ -1,4 +1,21 @@
 # Time Series 
+[A projected nonlinear state-space model for forecasting time series
+ signals](https://arxiv.org/pdf/2311.13247.pdf)
+
+[MEASURE OF DEPENDENCE FOR FINANCIAL TIME-SERIES](https://arxiv.org/pdf/2311.12129.pdf)
+
+[TS-Diffusion: Generating Highly Complex
+ Time Series with Diffusion Models](https://arxiv.org/pdf/2311.03303.pdf)
+
+[Is Channel Independent strategy optimal for Time Series Forecasting?](https://arxiv.org/abs/2310.17658)
+
+[Unraveling the ‘Anomaly’ in Time Series Anomaly
+ Detection: A Self-supervised Tri-domain Solution](https://arxiv.org/pdf/2311.11235.pdf)
+
+[Multilayer Quantile Graph for Multivariate Time Series Analysis and
+ Dimensionality Reduction](https://arxiv.org/pdf/2311.11849.pdf)
+
+ 
 [SOLETE Dataset](https://data.dtu.dk/articles/dataset/TheSOLETEdataset/17040767)
 
 [SWaT WADI EPIC Dataset](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
